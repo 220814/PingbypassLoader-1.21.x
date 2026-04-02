@@ -9,6 +9,12 @@
 
 # warning : 
 - The code has been modified or changed too much due to network and packet changes from 1.20.4 to 1.21.1, so it will not work perfectly.
-- Despite its name, PingBypass doesn't contain any actual features.
+- It's called pingbypass but doesn't contain any actual pingbypass functionality.
 - Run it with 1.21.1 - fabric.
 - I think you shouldn't run this because I haven't even updated Phobot's plugins to version 1.21.1 yet.
+- Open the issue if the code has errors or crashes.
+
+# Thanks :
++ 3arthqu4ke: for loader and phobot 1.20.4.
++ 4 : I manually migrated from 1.20.4 to 1.21.1 over 5 months.
+
